@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ukstreamtv.co.uk
+
+# Sitemaps
+Sitemap: https://ukstreamtv.co.uk/sitemap.xml
